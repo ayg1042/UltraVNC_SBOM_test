@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2FUltraVNC_SBOM_test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2FUltraVNC_SBOM_test?ref=badge_shield)
+
 **********************************************************************
 
     Ultr@VNC 1.2.4.0 Release  -  Dec 2019
@@ -339,3 +341,5 @@ freely, subject to the following restrictions:
    4. Info-ZIP retains the right to use the names "Info-ZIP," "Zip," "UnZip,"
       "UnZipSFX," "WiZ," "Pocket UnZip," "Pocket Zip," and "MacZip" for its
       own source and binary releases.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2FUltraVNC_SBOM_test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2FUltraVNC_SBOM_test?ref=badge_large)
